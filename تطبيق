@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <title>Syria App - Feature Breakdown</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      background-color: #f2f2f2;
+      color: #222;
+      padding: 40px;
+      line-height: 1.8;
+    }
+    h1 {
+      color: #d63031;
+      text-align: center;
+    }
+    h2 {
+      color: #0984e3;
+    }
+    ul {
+      list-style-type: '✔️ ';
+      padding-left: 20px;
+    }
+    .section {
+      margin-bottom: 30px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>📱 Syria App – Advanced Social Media Platform</h1>
+
+  <div class="section">
+    <h2>🏠 1. Home Feed</h2>
+    <ul>
+      <li>Displays posts chronologically or algorithmically.</li>
+      <li>Supports images, videos, and short reels.</li>
+      <li>Interactive features (like, comment, share, save).</li>
+      <li>Auto-play for videos.</li>
+      <li>Pinned posts appear at the top.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🔍 2. Explore</h2>
+    <ul>
+      <li>Smart algorithm recommends content based on user interests.</li>
+      <li>Topic categories (travel, fashion, food, sports...).</li>
+      <li>Hashtag and geolocation support.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>➕ 3. Create/Post</h2>
+    <ul>
+      <li>Capture photo/video or upload from gallery.</li>
+      <li>Advanced editing tools: filters, crop, rotate, lighting, color correction.</li>
+      <li>Add caption, location, and set privacy.</li>
+      <li>Schedule posts (optional feature).</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🎥 4. Stories</h2>
+    <ul>
+      <li>Photo/video stories lasting 24h or as set by the user.</li>
+      <li>Text, stickers, polls, and external link support.</li>
+      <li>View counters and quick interaction.</li>
+      <li>Automatic story archiving.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>💬 5. Messages</h2>
+    <ul>
+      <li>Real-time chat: private or group.</li>
+      <li>Supports photos, videos, voice notes.</li>
+      <li>Optional disappearing messages after viewing.</li>
+      <li>End-to-end encryption.</li>
+      <li>Read receipts and typing indicators.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>👤 6. Profile</h2>
+    <ul>
+      <li>Displays posts, highlights, followers/following.</li>
+      <li>Edit name, bio, photo, links.</li>
+      <li>Follow/Unfollow button.</li>
+      <li>Post statistics (likes, saves, views).</li>
+      <li>Privacy settings (private account, hide activity, story lock).</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🔔 7. Notifications</h2>
+    <ul>
+      <li>Instant alerts for likes, comments, tags, new followers.</li>
+      <li>Message and post notifications.</li>
+      <li>Customizable notification preferences.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>⚙️ 8. Settings</h2>
+    <ul>
+      <li>Account management and password changes.</li>
+      <li>Privacy control (who sees/interacts with content).</li>
+      <li>Security (2FA, login history, suspicious activity reports).</li>
+      <li>Language options: Arabic / English.</li>
+      <li>Help center and support access.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>⭐ 9. Extra Features</h2>
+    <ul>
+      <li>VIP subscription system for exclusive content.</li>
+      <li>Live streaming with interactive comments and gifts.</li>
+      <
